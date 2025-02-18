@@ -31,7 +31,7 @@ Se você gostou do projeto, ⭐ **deixe uma estrela no repositório** para apoia
 
 ## 📸 Prévia do Projeto
 
-![Prévia do Projeto](https://github.com/user-attachments/assets/292245db-59ec-496a-9017-89798a436c88)
+![Prévia do Projeto](https://github.com/user-attachments/assets/3069c50e-0024-4713-82ac-1882be727659)
 
 ## 🔥 Como Contribuir
 
