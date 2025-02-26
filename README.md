@@ -1,7 +1,6 @@
 # 🍔 Project Burguer Insane
 
-Bem-vindo ao **Burguer Insane**, uma landing page moderna e interativa para uma hamburgueria fictícia! Este projeto foi criado para praticar habilidades de desenvolvimento web, inspirado em uma aula do YouTube, mas com personalizações exclusivas.
-
+Bem-vindo ao **Burguer Insane**, uma landing page moderna e interativa para uma hamburgueria fictícia! Este projeto foi criado para praticar habilidades de desenvolvimento web.
 Se você gostou do projeto, ⭐ **deixe uma estrela no repositório** para apoiar! 🚀
 
 ## 🚀 Tecnologias Utilizadas
